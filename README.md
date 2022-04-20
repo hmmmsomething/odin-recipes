@@ -1,1 +1,3 @@
 # odin-recipes
+
+This is the first project ever written with HTML. Its purpose is to demonstrate a basic understanding of HTML. Some of the items include -- setting up the default formatting for html, using paragraphs, bold, italics, and headers, inserting links and images, and manipulating different pages within the same html project/website. This project will be showcasing my favorite recipes or, at least the ones that I can remember.
