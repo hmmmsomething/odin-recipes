@@ -1,0 +1,57 @@
+h1{
+    text-align: center;
+    color:rgb(230,126,34)
+}
+
+p{
+    max-width: 75ch;
+}
+
+li {
+    max-width: 75ch;
+}
+
+body ol,
+body ul {
+    border: 4px solid rgb(93,109,126);
+    padding: 20px;
+    text-align: left;
+    display:table;
+    margin:0 auto;
+}
+
+.directory {
+    border: 4px solid rgb(93,109,126);
+    padding: 20px;
+    text-align: left;
+    display:table;
+    margin:0 auto;
+}
+
+ol li::marker {
+    color: rgb(72,201,176);
+}
+
+ul li::marker {
+    color: rgb(241,196,15);
+}
+
+a:link {
+    color:rgb(72,201,176);
+}
+a:visited{
+    color:rgb(17,120,100);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 300px;
+    height:auto;
+}
+
+h5 {
+   font-style: italic;
+   color: rgb(211,84,0);
+}
